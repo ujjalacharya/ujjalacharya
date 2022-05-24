@@ -20,9 +20,18 @@
 
 
 
+<div style="width: 100%; display:flex; align-items: center; justify-content: center">
+
+<div>
+
  ### <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
  
  ![](https://komarev.com/ghpvc/?username=ujjalacharya&color=f95378)
+
+</div>
+
+
+</div>
   
 
 </div>
