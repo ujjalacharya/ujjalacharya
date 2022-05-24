@@ -1,5 +1,6 @@
 <!-- ### <img align='right' src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="280"> -->
 
+<!--
 <div style="display: flex">
 
 <div style="margin-top: .5rem">
@@ -15,8 +16,13 @@
 
 </div>
 
+-->
+
+
 
  ### <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
+ 
+ ![](https://komarev.com/ghpvc/?username=ujjalacharya&color=f95378)
   
 
 </div>
